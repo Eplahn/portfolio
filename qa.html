@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elin Plahn | Frontend & QA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css">
+  </head>
+  <body>
+    <header>
+      <h1><a href="index.html">Elin Plahn – Frontend Developer & QA</a></h1>
+      <nav>
+        <a href="index.html#about">About</a>
+        <a href="index.html#background">Background</a>
+        <a href="index.html#skills">Skills</a>
+      
+        <div class="dropdown">
+          <a href="index.html#projects" class="dropbtn">Projects</a>
+          <div class="dropdown-content">
+            <a href="intro.html">Intro till kod</a>
+            <a href="qa.html">QA Case</a>
+            <a href="weather.html">Weather App</a>
+            <a href="subrush.html">Sub Rush</a>
+          </div>
+        </div>
+      
+        <a href="index.html#contact">Contact</a>
+      </nav>
+    </header>
+
+    <div class="container">
+      <section class="project-detail">
+
+        <h2>QA Testing – NationDev Platform</h2>
+      
+        <div>
+          <a href="https://nation.dev" target="_blank" class="go-to-link">
+            View platform ↗
+          </a>
+        </div>
+      
+        <p class="project-meta">APL project · Manual testing · UX focus · Structured bug reporting</p>
+      
+        <p>During my internship (APL), I tested a platform under development called NationDev.
+           We were asked to explore the system and report bugs, but without any predefined structure or testing method.</p>
+      
+        <p>Since I enjoy working in a structured and systematic way, I created my own approach for both testing and documenting findings.
+           I focused on understanding the user flow, identifying edge cases, and describing issues clearly from a user perspective.</p>
+      
+        <h3>My approach</h3>
+      
+        <ul>
+          <li>explored the platform from a user perspective</li>
+          <li>tested different flows and scenarios</li>
+          <li>documented findings in a clear and structured format</li>
+          <li>focused on UX, validation, and feedback</li>
+        </ul>
+      
+        <figure class="project-figure">
+          <img src="images/qa-bad-request-error.png" alt="Technical error message shown instead of user-friendly validation feedback" class="project-image">
+          <figcaption>Example of a validation issue where a technical error message is shown instead of clear user feedback.</figcaption>
+        </figure>
+      
+        <h3>Example findings</h3>
+
+        <p>Below are a few examples of issues I identified and documented during testing:</p>
+      
+        <div class="qa-finding">
+          <h4>Missing feedback when character limit is reached</h4>
+
+          <p><strong>Description:</strong> The input field silently stops accepting text when the maximum length is reached, without notifying the user.</p>
+          <p><strong>Impact:</strong> Users may believe their full input was saved.</p>
+          <p><strong>Suggested improvement:</strong> Add a character counter or clear message when the limit is reached.</p>
+        </div>
+      
+        <div class="qa-finding">
+          <h4>No warning when navigating away with unsaved changes</h4>
+
+          <p><strong>Description:</strong> Navigating away from a page without saving results in lost data, without any warning.</p>
+          <p><strong>Impact:</strong> Risk of losing longer text and a negative user experience.</p>
+          <p><strong>Suggested improvement:</strong> Add a confirmation dialog or autosave functionality.</p>
+        </div>
+      
+        <h3>What I learned</h3>
+      
+        <p>This experience made me realize how much I enjoy working with testing and user experience, especially identifying issues from a user perspective and structuring findings in a clear and useful way.</p>
+
+        <p>It also showed me how well my interest in UX and usability, together with my structured and detail-oriented approach, fit with QA work.</p>
+
+        <p class="back-link">
+          <a href="index.html#projects">← Back to projects</a>
+        </p>
+      
+      </section>
+    </div>
+
+    <footer>
+        <p>© 2026 Elin Plahn</p>
+    </footer>
+  </body>
+</html>
