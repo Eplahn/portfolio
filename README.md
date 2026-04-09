@@ -1,6 +1,6 @@
 # Portfolio – Elin Plahn
 
-A simple portfolio showcasing my projects within frontend development and QA.
+A simple portfolio presenting my work in frontend development and QA, with a focus on structure and user experience.
 
 🔗 Live site: https://eplahn.github.io/portfolio/
 
@@ -8,16 +8,16 @@ A simple portfolio showcasing my projects within frontend development and QA.
 
 ## 👩‍💻 About
 
-I am a junior developer with a focus on frontend and an interest in QA and user experience.  
-This portfolio presents selected projects where I have worked with structure, usability, and iterative development.
+I am a junior developer with a focus on frontend and an interest in QA and user experience.
+I enjoy working in a structured way, thinking from the user’s perspective, and continuously improving both design and functionality.
 
 ---
 
 ## 🚀 Projects
 
 - **Intro till kod** – WordPress site for beginners in programming  
-- **QA Case** – Structured bug reporting and testing approach
-- **SkyCaster** – Weather app using API and UI/UX improvements    
+- **QA Case** – Structured testing and bug reporting
+- **SkyCaster** – Weather app with API integration and UI/UX improvements 
 - **Sub Rush** – 2D game built in Python using Pygame  
 
 ---
@@ -25,8 +25,7 @@ This portfolio presents selected projects where I have worked with structure, us
 ## 🛠 Tech
 
 - HTML  
-- CSS  
-- JavaScript  
+- CSS   
 - PHP (WordPress)  
 - Python (Pygame)  
 
@@ -36,3 +35,4 @@ This portfolio presents selected projects where I have worked with structure, us
 
 - Email: plahnelin@gmail.com  
 - LinkedIn: [View profile](https://www.linkedin.com/in/elin-plahn/)
+- GitHub: [View profile](https://github.com/Eplahn)
