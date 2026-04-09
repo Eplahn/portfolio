@@ -9,7 +9,7 @@ A simple portfolio presenting my work in frontend development and QA, with a foc
 ## 👩‍💻 About
 
 I am a junior developer with a focus on frontend and an interest in QA and user experience.
-I enjoy working in a structured way, thinking from the user’s perspective, and continuously improving both design and functionality.
+I enjoy working in a structured way, thinking from the user’s perspective, and continuously improving both usability and functionality.
 
 ---
 
@@ -17,7 +17,7 @@ I enjoy working in a structured way, thinking from the user’s perspective, and
 
 - **Intro till kod** – WordPress site for beginners in programming  
 - **QA Case** – Structured testing and bug reporting
-- **SkyCaster** – Weather app with API integration and UI/UX improvements 
+- **SkyCaster** – Weather app with API integration and UI/UX focus 
 - **Sub Rush** – 2D game built in Python using Pygame  
 
 ---
