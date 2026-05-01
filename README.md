@@ -1,6 +1,6 @@
 # Portfolio – Elin Plahn
 
-Portfolio focused on quality assurance, usability, and user experience, supported by a background in frontend development.
+Portfolio focused on quality assurance, usability, and user experience – supported by a background in frontend development.
 
 🔗 Live site: https://eplahn.github.io/portfolio/
 
