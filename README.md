@@ -19,8 +19,11 @@ During my studies and internship, I worked with testing and bug reporting in a p
 ## 🚀 Projects
 
 - **QA Testing – Nation.dev Platform** – Tested a platform from a user perspective. Identified usability issues, explored edge cases, and documented findings in structured bug reports.
+  
 - **SkyCaster** – Built and refined a weather application using GenAI-based prototyping, focusing on usability and interface clarity.
+  
 - **Intro till kod** – Created a beginner-friendly website focused on clear structure, navigation, and usability.
+  
 - **Sub Rush** – Developed a 2D game using Python and Pygame. Tested functionality and iterated on improvements. 
 
 ---
