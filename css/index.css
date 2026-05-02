@@ -62,6 +62,10 @@ header {
 h1 a {
   color: white;
 }
+
+.mobile-break {
+  display: none;
+}
   
 nav {
   display: flex;
@@ -346,10 +350,6 @@ nav a.active {
   
   
 /* RESPONSIVE */
-
-.mobile-break {
-  display: none;
-}
   
 @media (max-width: 768px) {
   header {
@@ -441,10 +441,10 @@ nav a.active {
   .project-links {
     gap: 10px;
   }
-  
-   .mobile-break {
+}
+
+@media (max-width: 390px) {
+  .mobile-break {
     display: inline;
   }
 }
-
-
