@@ -58,6 +58,12 @@ header {
   padding: 15px;
   text-align: center;
 }
+
+.subtitle {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9em;
+}
   
 h1 a {
   color: white;
@@ -436,9 +442,5 @@ nav a.active {
   
   .project-links {
     gap: 10px;
-  }
-  
-  .mobile-break {
-    display: inline;
   }
 }
