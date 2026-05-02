@@ -57,15 +57,10 @@ header {
   color: #fff;
   padding: 15px;
   text-align: center;
-  line-height: 1.2;
 }
   
 h1 a {
   color: white;
-}
-
-.mobile-break {
-  display: none;
 }
   
 nav {
