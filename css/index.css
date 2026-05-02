@@ -441,9 +441,7 @@ nav a.active {
   .project-links {
     gap: 10px;
   }
-}
-
-@media (max-width: 390px) {
+  
   .mobile-break {
     display: inline;
   }
