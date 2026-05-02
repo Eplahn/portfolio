@@ -346,6 +346,10 @@ nav a.active {
   
   
 /* RESPONSIVE */
+
+.mobile-break {
+  display: none;
+}
   
 @media (max-width: 768px) {
   header {
@@ -437,4 +441,10 @@ nav a.active {
   .project-links {
     gap: 10px;
   }
+  
+   .mobile-break {
+    display: inline;
+  }
 }
+
+
